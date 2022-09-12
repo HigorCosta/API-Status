@@ -1,0 +1,25 @@
+{
+  "name": "api-status",
+  "version": "1.0.0",
+  "description": "api com detalhes de sua localização e situação climática",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HigorCosta/api-status.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HigorCosta/api-status/issues"
+  },
+  "homepage": "https://github.com/HigorCosta/api-status#readme",
+  "dependencies": {
+    "next": "^12.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
